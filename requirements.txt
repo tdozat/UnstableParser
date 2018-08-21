@@ -1,0 +1,7 @@
+# This code also requires TensorFlow 1.0
+# Install the CPU version with: pip install tensorflow==1.0
+# Install the GPU version with: pip install tensorflow-gpu==1.0
+
+numpy==1.11.0
+scipy==1.0.0
+matplotlib==2.1.2
